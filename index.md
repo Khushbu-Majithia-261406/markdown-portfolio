@@ -1,4 +1,1 @@
----
-layout: default
----
-# hello <h1> hii
+# hello <h1> hi
