@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Khushbu Majithia](https://github.com/Khushbu-Majithia-261406/github-slideshow/issues/1)
+
